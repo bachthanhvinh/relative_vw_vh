@@ -19,4 +19,5 @@ p {
     height: 50vh;
     background-color: red;
     border: 0.1em solid yellow;
+    margin:10px;
 }
