@@ -1,0 +1,22 @@
+/* h1 {
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+
+    box-sizing: border-box;
+}
+p {
+    width: 50%;
+    background-color: pink;
+} */
+.parent {
+    width: 80vw;;
+    height: 80vh;
+    background-color: blue;
+}
+.child {
+    width: 50vw;
+    height: 50vh;
+    background-color: red;
+    border: 0.1em solid yellow;
+}
